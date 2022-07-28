@@ -1,0 +1,1698 @@
+{
+  "reporting_entity_name": "Molina Healthcare of Ohio",
+  "reporting_entity_type": "health insurance issuer",
+  "reporting_structure": [
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT19675-1.json"
+        },
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT19675-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT15824-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT15825-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT14454-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT20252-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT03115-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT20017-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT20404-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT20653-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT20660-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT21012-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT21261-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT21356-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT14453-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT21519-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT21544-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT21799-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT21937-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT22061-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT22530-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT23604-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT23606-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT23607-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT23609-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT25139-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT25146-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT25161-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-S-QMXCT21518-1.json"
+        }
+      ]
+    },
+    {
+      "reporting_plans": [
+        {
+          "plan_name": "***Confident Care Gold 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "***Constant Care Silver 8",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "**Constant Care Silver 7",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "*Constant Care Silver 4",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Confident Care Gold 1 + Vision",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 1",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        },
+        {
+          "plan_name": "Constant Care Silver 2",
+          "plan_id_type": "hios",
+          "plan_id": "64353",
+          "plan_market_type": "individual"
+        }
+      ],
+      "in_network_files": [
+        {
+          "description": "in-network file",
+          "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/INN/innetwork-G-QMXCT21427-1.json"
+        }
+      ]
+    },
+    {
+      "allowed_amount_file": {
+        "description": "allowed amount file",
+        "location": "https://www.molinahealthcare.com/PricingTransparency/263574/OH/OON/2022-07-01_Molina-Healthcare-of-Ohio_allowed-amounts.json"
+      }
+    }
+  ]
+}
