@@ -80,7 +80,7 @@ Loads javascript site
 
 ### Collective Health
 
-No direct link to external sites. I’ll acknowlege Collective Health
+No direct link to external sites. I’ll acknowledge Collective Health
 probabably wasn’t able to get this info
 
 https://transparency-in-coverage.collectivehealth.com/index.html
@@ -122,5 +122,6 @@ Need to scrape HTML
     | Table of Contents | Coming Soon |
 
 That said,
-\[\](https://www.molinamarketplace.com/PricingTransparency/263574/OH/2022-07-01_Molina-Healthcare-of-Ohio_index.json
-used to work. - \[ \] [July, 2021 downloads](molina/)
+`https://www.molinamarketplace.com/PricingTransparency/263574/OH/2022-07-01_Molina-Healthcare-of-Ohio_index.json`
+used to work. 
+[July, 2021 downloads](molina/)
